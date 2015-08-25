@@ -10,13 +10,13 @@
 		720047961B8B66E300366E12 /* TPKeyboardAvoiding.h in Headers */ = {isa = PBXBuildFile; fileRef = 720047951B8B66E300366E12 /* TPKeyboardAvoiding.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		7200479C1B8B66E300366E12 /* TPKeyboardAvoiding.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 720047901B8B66E300366E12 /* TPKeyboardAvoiding.framework */; };
 		720047A31B8B66E300366E12 /* TPKeyboardAvoidingTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 720047A21B8B66E300366E12 /* TPKeyboardAvoidingTests.m */; };
-		720047B41B8B66F700366E12 /* TPKeyboardAvoidingCollectionView.h in Headers */ = {isa = PBXBuildFile; fileRef = 720047AC1B8B66F700366E12 /* TPKeyboardAvoidingCollectionView.h */; };
+		720047B41B8B66F700366E12 /* TPKeyboardAvoidingCollectionView.h in Headers */ = {isa = PBXBuildFile; fileRef = 720047AC1B8B66F700366E12 /* TPKeyboardAvoidingCollectionView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		720047B51B8B66F700366E12 /* TPKeyboardAvoidingCollectionView.m in Sources */ = {isa = PBXBuildFile; fileRef = 720047AD1B8B66F700366E12 /* TPKeyboardAvoidingCollectionView.m */; };
-		720047B61B8B66F700366E12 /* TPKeyboardAvoidingScrollView.h in Headers */ = {isa = PBXBuildFile; fileRef = 720047AE1B8B66F700366E12 /* TPKeyboardAvoidingScrollView.h */; };
+		720047B61B8B66F700366E12 /* TPKeyboardAvoidingScrollView.h in Headers */ = {isa = PBXBuildFile; fileRef = 720047AE1B8B66F700366E12 /* TPKeyboardAvoidingScrollView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		720047B71B8B66F700366E12 /* TPKeyboardAvoidingScrollView.m in Sources */ = {isa = PBXBuildFile; fileRef = 720047AF1B8B66F700366E12 /* TPKeyboardAvoidingScrollView.m */; };
-		720047B81B8B66F700366E12 /* TPKeyboardAvoidingTableView.h in Headers */ = {isa = PBXBuildFile; fileRef = 720047B01B8B66F700366E12 /* TPKeyboardAvoidingTableView.h */; };
+		720047B81B8B66F700366E12 /* TPKeyboardAvoidingTableView.h in Headers */ = {isa = PBXBuildFile; fileRef = 720047B01B8B66F700366E12 /* TPKeyboardAvoidingTableView.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		720047B91B8B66F700366E12 /* TPKeyboardAvoidingTableView.m in Sources */ = {isa = PBXBuildFile; fileRef = 720047B11B8B66F700366E12 /* TPKeyboardAvoidingTableView.m */; };
-		720047BA1B8B66F700366E12 /* UIScrollView+TPKeyboardAvoidingAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = 720047B21B8B66F700366E12 /* UIScrollView+TPKeyboardAvoidingAdditions.h */; };
+		720047BA1B8B66F700366E12 /* UIScrollView+TPKeyboardAvoidingAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = 720047B21B8B66F700366E12 /* UIScrollView+TPKeyboardAvoidingAdditions.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		720047BB1B8B66F700366E12 /* UIScrollView+TPKeyboardAvoidingAdditions.m in Sources */ = {isa = PBXBuildFile; fileRef = 720047B31B8B66F700366E12 /* UIScrollView+TPKeyboardAvoidingAdditions.m */; };
 /* End PBXBuildFile section */
 
